@@ -1,0 +1,14 @@
+.div img{
+    width:400px;
+    height:40vh;
+}
+.div h1{
+    color:blue;
+}
+.div img:hover{
+    box-sizing: border-box;
+    box-shadow: 10px 10px 10px 10px blue;
+}
+.div h1,h3{
+    font-size: 20px;
+}
